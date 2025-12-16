@@ -1,0 +1,17 @@
+{
+    "name": "backend-entrega-1",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "dependencies": {
+        "express": "^4.22.1",
+        "handlebars": "^4.7.8"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.0"
+    }
+}

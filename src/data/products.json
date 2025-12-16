@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "Auriculares",
+      "description": "Airiculares Logitech verdes.",
+      "code": "AUR-0001",
+      "price": 90,
+      "status": true,
+      "stock": 50,
+      "category": "periferico"
+    },
+        {
+      "id": 2,
+      "title": "Raton",
+      "description": "Raton (Mouse) Logitech",
+      "code": "MOU-001",
+      "price": 90,
+      "status": true,
+      "stock": 30,
+      "category": "periferico"
+    },
+    {
+      "id": 3,
+      "title": "Monitor LG",
+      "description": "Monitor LG 22 pulgadas.",
+      "code": "MON-001",
+      "price": 160,
+      "status": true,
+      "stock": 15,
+      "category": "monitor"
+    },
+    {
+      "id": 4,
+      "title": "Monitor Samsung",
+      "description": "Monitor Samsung 32 pulgadas.",
+      "code": "MON-002",
+      "price": 175,
+      "status": true,
+      "stock": 20,
+      "category": "monitor"
+    },
+    {
+      "id": 5,
+      "title": "Sillon de escritorio",
+      "description": "Sillon de oficina modelo clasico",
+      "code": "SIL-001",
+      "price": 120,
+      "status": true,
+      "stock": 20,
+      "category": "silla"
+    },
+    {
+      "id": 6,
+      "title": "Sillon logitech",
+      "description": "Sillon gamer con iluminacion RGB.",
+      "code": "SIL-002",
+      "price": 300,
+      "status": true,
+      "stock": 12,
+      "category": "silla"
+    }
+  ]

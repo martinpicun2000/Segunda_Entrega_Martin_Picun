@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "name": "Admin",
+        "fechaNacimiento": "01/01/1990",
+        "email": "admin@gmail.com",
+        "password": "@dmin123",
+        "suscripcion": true
+    },
+    {
+        "id": 1,
+        "name": "Juan",
+        "fechaNacimiento": "01/01/2000",
+        "email": "Juan@gmail.com",
+        "password": "Juan123",
+        "suscripcion": true
+    }
+]
